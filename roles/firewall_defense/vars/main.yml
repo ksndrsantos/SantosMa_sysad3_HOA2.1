@@ -1,0 +1,6 @@
+---
+# vars file for roles/firewall_defense
+allowed_ports:
+  - 22
+  - 80 
+ 
